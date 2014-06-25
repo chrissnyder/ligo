@@ -1,0 +1,13 @@
+{
+  "name": "ligo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "zooniverse-readymade serve --css project.styl",
+    "deploy-to-staging": "zooniverse-readymade build --force --output ./build --css ./project.styl && publisssh ./build demo.zooniverse.org/ligo && trash ./build"
+  },
+  "dependencies": {
+    "publisssh": "^0.2.5"
+  }
+}

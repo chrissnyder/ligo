@@ -1,0 +1,26 @@
+[{
+  "id": "PLACEHOLDER_SUBJECT_ID",
+  "zooniverse_id": "PLACEHOLDER_SUBJECT_ZOONIVERSE_ID",
+  "location": {
+    "standard": "./example-spectrograms/plane-1.png"
+  }
+}, {
+  "id": "PLACEHOLDER_SUBJECT_ID_2",
+  "zooniverse_id": "PLACEHOLDER_SUBJECT_ZOONIVERSE_ID_2",
+  "location": {
+    "standard": "./example-spectrograms/seismic-3.png"
+  }
+}, {
+  "id": "PLACEHOLDER_SUBJECT_ID_3",
+  "zooniverse_id": "PLACEHOLDER_SUBJECT_ZOONIVERSE_ID_3",
+  "location": {
+    "standard": "./example-spectrograms/helicopter-2.png"
+  }
+}, {
+  "id": "PLACEHOLDER_SUBJECT_ID_3",
+  "zooniverse_id": "PLACEHOLDER_SUBJECT_ZOONIVERSE_ID_3",
+  "location": {
+    "standard": "./example-spectrograms/laser-4.png"
+  }
+}]
+
