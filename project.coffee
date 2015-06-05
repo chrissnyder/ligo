@@ -2,8 +2,8 @@ module.exports =
   id: 'project_id'
   background: './images/wave-2.png'
 
-  producer: 'LIGO'
-  title: 'Glitch Zoo'
+  producer: ''
+  title: 'LIGO Zoo'
   summary: 'Find Ripples in Spacetime'
   description: '''
       We need your help to identify glitches in our data which may be hiding signals of gravitational waves from our Universe.
