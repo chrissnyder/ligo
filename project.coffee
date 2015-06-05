@@ -3,7 +3,7 @@ module.exports =
   background: './images/wave-2.png'
 
   producer: 'LIGO'
-  title: 'Glitch Detective'
+  title: 'Glitch Zoo'
   summary: 'Find Ripples in Spacetime'
   description: '''
       We need your help to identify glitches in our data which may be hiding signals of gravitational waves from our Universe.
